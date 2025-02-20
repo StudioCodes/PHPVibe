@@ -4,11 +4,9 @@
 (with the help of the many beautiful members of the Vibe community!)
 
 
-Website: https://phpvibe.com/
+Website: https://phpvibe.ru/
 
-Community: https://forums.phpvibe.com/
-
-Say hi to Marius:  [https://www.linkedin.com/in/marius-dev/](https://www.linkedin.com/in/marius-dev/)
+Community: https://phpvibe.ru/forum
 
 
 # Video & Multimedia CMS: Unleash the Power of PHPVibe
