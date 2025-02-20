@@ -70,4 +70,5 @@ $cachettl = 7200; /* $ttl = Expiry time in seconds for cache's static html pages
 /*
 ** Custom settings would go after here.
 */
+function is_licensed_true() {return true;} /* true: unlimited verification license */
 ?>
