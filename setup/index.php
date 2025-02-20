@@ -159,7 +159,7 @@ echo '
 '; ?>
 <div class="row" style="text-align:center;">
 <div style="display:block;padding:2%">
-<img src="https://www.phpvibe.ru/storage/brand/logo.png"><br> 
+<img src="https://phpvibe.ru/storage/brand/logo.png"><br>
 <p style="margin:2% 0 0"><h2>PHPVibe: Video CMS</h2></p></div>
 Quick links:
 <a style="display:inline-block; padding:2%;" target="_blank" href="https://www.phpvibe.com/installing-phpvibe/">Installing PHPVibe</a>
