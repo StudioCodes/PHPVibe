@@ -1,4 +1,4 @@
-<?php  error_reporting(E_ALL);
+<?php  error_reporting(E_ALL); 
 if(!isset($_SESSION['user_id'])) {$_SESSION['user_id'] = 0;}
 // security
 if( !defined( 'in_phpvibe' ) )
@@ -87,12 +87,12 @@ function get_domain($url)
 }
 function hasA_license() {
 if( !defined( 'phpVibeKey')) {
-return true;
+return false;
 } else {
 $test = phpVibeKey;
 if(empty($test) || is_null($test) || (strpos($test, '-') === false) || (substr_count($test, '-') < 2)) {
 
-return true;
+return false;
 }
 }
 return true;
@@ -159,8 +159,8 @@ echo '
 '; ?>
 <div class="row" style="text-align:center;">
 <div style="display:block;padding:2%">
-<img src="https://www.phpvibe.ru/storage/brand/logo.png"><br> 
-<p style="margin:2% 0 0"><h2>PHPVibe: Video CMS</h2></p></div>
+<img src="https://www.phpvibe.com/wp-content/uploads/2017/07/site-logo-icon.jpg"><br> 
+<p style="margin:2% 0 0"><h2>PHPVibeS v6: Multimedia CMS</h2></p></div>
 Quick links:
 <a style="display:inline-block; padding:2%;" target="_blank" href="https://www.phpvibe.com/installing-phpvibe/">Installing PHPVibe</a>
 <a style="display:inline-block; padding:2%;" target="_blank" href="https://www.phpvibe.com/troubleshooting">Troubleshooting</a>
