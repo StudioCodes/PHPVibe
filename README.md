@@ -4,7 +4,7 @@
 (with the help of the many beautiful members of the Vibe community!)
 
 
-Website: https://phpvibe.ru/
+Website: https://phpvibe.ru
 
 Community: https://phpvibe.ru/forum
 
